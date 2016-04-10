@@ -1,0 +1,23 @@
+- date: '2016-04-14'
+  name: Introduction meeting.
+
+- date: '2016-04-19'
+  name: Warmup assignment discussion.
+
+- date: '2016-04-21'
+  name: Workshop 1. Architecture of a web project on Symfony.
+
+- date: '2016-04-26'
+  name: Workshop 1 assignment discussion.
+
+- date: '2016-04-28'
+  name: Workshop 2. SonataAdminBundle – CRUD generator for Back-end and Front-end.
+
+- date: '2016-05-03'
+  name: Workshop 2 assignment discussion.
+
+- date: '2016-05-05'
+  name: Workshop 3. High load projects on Symfony.
+
+- date: '2016-05-10'
+  name: Workshop 3 assignment discussion.

@@ -1,0 +1,17 @@
+# Site settings
+title: Levi9 Symfony Training
+email: i.panayotov@levi9.com
+description: |
+  Levi9 internal Symfony training.
+  The leading PHP framework to create websites and web applications.
+  Embracing and promoting professionalism, best practices, standardization and interoperability of applications.
+baseurl: "/sf-levi9" # the subpath of your site, e.g. /blog/
+url: "http://panayotovyura.github.io" # the base hostname & protocol for your site
+github:
+    - panayotovyura
+    - e-moe
+    - maxmode
+twitter_username:
+
+kramdown:
+  input: GFM
