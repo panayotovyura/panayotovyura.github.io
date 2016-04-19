@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warmup assignment review"
-date:   2016-04-19 13:00:00
+date:   2016-04-19 09:00:00
 category: assignments
 tags:
     - training
