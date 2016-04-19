@@ -21,6 +21,8 @@ excerpt: |
 
 * https://github.com/arohachenko/sfdemo_batteries
 
+* https://github.com/mountine-orc/battery-simple-app
+
 ## Composer.
 
 * You don't need to upload vendor folder. Put it to your ".gitignore" file. Upload only "composer.json" and
