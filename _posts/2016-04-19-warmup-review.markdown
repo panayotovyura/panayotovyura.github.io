@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Warmup assignment review"
-# date:   2016-04-19 18:00:00
+date:   2016-04-19 13:00:00
 category: assignments
 tags:
     - training
@@ -17,17 +17,9 @@ excerpt: |
 
 ## Received assignments.
 
-* https://github.com/panayotovyura/project1
+* https://github.com/ebessarabov/SymfonyTraining1
 
-* https://gitlab.levi9.com/o.kaleniuk/sf-workshop-hw
-
-* https://github.com/dhalkin/battery
-
-* https://bitbucket.org/IvanNikolaevsky/batteries
-
-* https://github.com/DmitriyKozyatinskiy/batteries
-
-* https://github.com/MalinovskyM/learn_symfony
+* https://github.com/arohachenko/sfdemo_batteries
 
 ## Composer.
 
