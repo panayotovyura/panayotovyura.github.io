@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assignment 1. Sport calendar"
-date:   2016-04-21 18:00:00
+date:   2016-04-21 10:00:00
 category: assignments
 tags:
     - training
