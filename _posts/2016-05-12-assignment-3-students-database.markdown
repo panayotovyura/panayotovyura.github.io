@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assignment 3. Students database"
-date:   2015-06-03 18:00:00
+date:   2016-05-12 18:00:00
 category: assignments
 tags:
     - training
