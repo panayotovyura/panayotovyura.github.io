@@ -13,8 +13,8 @@ excerpt: |
     Students database.
     Idea of student’s database is to create a site of some university. On the site everybody could read
     detail page of student. In this assignment we will focus only on displaying these detail pages trying
-    to keep application as much lightweight as possible, but made with Symfony 2.
----
+    to keep application as much lightweight as possible, but made with Symfony 3.
+---------------------------------------------------------------------------------
 * TOC
 {:toc}
 
@@ -24,7 +24,7 @@ Idea of student’s database is to create a site of some university. On the site
 detail page of student. These pages would include student’s name and some description text.
 
 In this home task we will focus only on displaying these detail pages. There is no need to create any overview.
-From another point of view, application should be lightweight as much as possible, but made on Symfony 2.
+From another point of view, application should be lightweight as much as possible, but made on Symfony 3.
 
 ## 1. Implement data model and fill it with fixtures.
 
