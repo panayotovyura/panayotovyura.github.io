@@ -1,11 +1,15 @@
 - name: Yevhen Bessarabov
-  tasks: 3
-  score: 3
+  tasks: 4
+  score: 3.95
 
 - name: Artem Rohachenko
-  tasks: 2
-  score: 1.8
+  tasks: 3
+  score: 2.8
 
 - name: Mykhailo Panko
-  tasks: 3
-  score: 2.5
+  tasks: 4
+  score: 3.4
+
+- name: Oleksii Romanchenko
+  tasks: 1
+  score: 1
