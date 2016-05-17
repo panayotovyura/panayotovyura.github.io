@@ -25,6 +25,8 @@ excerpt: |
 
 * https://github.com/mountine-orc/students
 
+* https://github.com/myroshnychenko/students_db
+
 ## PHP.
 
 * Garbage collector
